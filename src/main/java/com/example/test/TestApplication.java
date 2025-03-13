@@ -7,6 +7,12 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TestApplication {
 
 	public static void main(String[] args) {
+		int x = 100;
+		int y= 200;
+		int z = 500;
+		float i=12;
+		char n ='g';
+		int f=890;
 		SpringApplication.run(TestApplication.class, args);
 	}
 
