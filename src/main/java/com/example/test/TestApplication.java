@@ -11,6 +11,8 @@ public class TestApplication {
 		int y= 200;
 		int z = 500;
 		float i=12;
+		int f=890;
+
 		SpringApplication.run(TestApplication.class, args);
 	}
 
