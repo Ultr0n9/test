@@ -11,8 +11,9 @@ public class TestApplication {
 		int y= 200;
 		int z = 500;
 		float i=12;
-		char n ='g';
 		int f=890;
+    char n ='g';
+
 		SpringApplication.run(TestApplication.class, args);
 	}
 
