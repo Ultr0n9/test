@@ -10,9 +10,7 @@ public class TestApplication {
 		int x = 100;
 		int y = 200;
 		int z = 500;
-		System.out.println(x);
-		System.out.println(y);
-		System.out.println(z);
+		int f=890;
 		SpringApplication.run(TestApplication.class, args);
 	}
 
