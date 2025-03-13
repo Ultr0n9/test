@@ -12,6 +12,7 @@ public class TestApplication {
 		int z = 500;
 		float i=12;
 		int f=890;
+    char n ='g';
 
 		SpringApplication.run(TestApplication.class, args);
 	}
